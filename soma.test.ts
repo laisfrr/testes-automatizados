@@ -1,6 +1,6 @@
 //test suits --> conjunto de testes
 
-const soma = require('./soma')
+import soma from './soma'
 
 describe('teste de soma', () => {
   test('Deve verificar o resultado de uma soma', () => {
