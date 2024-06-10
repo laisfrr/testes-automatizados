@@ -4,7 +4,8 @@
   "main": "soma.js",
   "type": "commonjs",
   "scripts": {
-    "jest": "jest"
+    "jest": "jest",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
